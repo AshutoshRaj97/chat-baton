@@ -20,3 +20,7 @@ Read HANDOFF.md and continue from "Next steps".
 ## What the brief contains
 
 Goal, current state, key decisions and why, your preferences, important context, open questions, next steps. Secrets are never included.
+
+## License
+
+MIT
