@@ -5,7 +5,7 @@ A Claude Code skill that packages your current chat into a compact `HANDOFF.md` 
 ## Install
 
 ```
-/plugin marketplace add <your-github-user>/chat-baton
+/plugin marketplace add AshutoshRaj97/chat-baton
 /plugin install chat-baton@ashutosh-skills
 ```
 
