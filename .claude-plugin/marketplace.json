@@ -1,0 +1,12 @@
+{
+  "name": "ashutosh-skills",
+  "description": "Skills by Ashutosh Raj",
+  "owner": { "name": "Ashutosh Raj" },
+  "plugins": [
+    {
+      "name": "context-handoff",
+      "source": "./",
+      "description": "Package the current chat into a handoff brief to continue in a fresh session."
+    }
+  ]
+}

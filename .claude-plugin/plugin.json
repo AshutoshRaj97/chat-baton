@@ -1,0 +1,6 @@
+{
+  "name": "context-handoff",
+  "description": "Package the current chat into a handoff brief to continue in a fresh session.",
+  "version": "0.1.0",
+  "author": { "name": "Ashutosh Raj" }
+}
