@@ -1,17 +1,17 @@
-# context-handoff
+# chat-baton
 
 A Claude Code skill that packages your current chat into a compact `HANDOFF.md` so a fresh session can continue without re-explaining anything.
 
 ## Install
 
 ```
-/plugin marketplace add <your-github-user>/context-handoff
-/plugin install context-handoff@ashutosh-skills
+/plugin marketplace add <your-github-user>/chat-baton
+/plugin install chat-baton@ashutosh-skills
 ```
 
 ## Use
 
-In a long session, say "handoff" or run `/context-handoff`. Then in a new chat:
+In a long session, say "handoff" or run `/chat-baton`. Then in a new chat:
 
 ```
 Read HANDOFF.md and continue from "Next steps".

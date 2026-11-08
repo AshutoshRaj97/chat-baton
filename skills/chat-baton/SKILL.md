@@ -1,9 +1,9 @@
 ---
-name: context-handoff
+name: chat-baton
 description: Package the current conversation into a compact handoff brief that can be pasted into (or loaded by) a brand-new chat so work continues without re-explaining. Use when the user says "handoff", "port this chat", "continue in a new chat", "context is getting long", or "summarize so I can start fresh".
 ---
 
-# Context Handoff
+# Chat Baton
 
 Create a self-contained brief that lets a fresh session pick up exactly where this one stops.
 

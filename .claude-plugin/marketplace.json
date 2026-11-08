@@ -4,9 +4,9 @@
   "owner": { "name": "Ashutosh Raj" },
   "plugins": [
     {
-      "name": "context-handoff",
+      "name": "chat-baton",
       "source": "./",
-      "description": "Package the current chat into a handoff brief to continue in a fresh session."
+      "description": "Hand your current chat off to a fresh one: writes a HANDOFF.md baton brief so the next session continues where this one stopped."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "name": "context-handoff",
-  "description": "Package the current chat into a handoff brief to continue in a fresh session.",
+  "name": "chat-baton",
+  "description": "Hand your current chat off to a fresh one: writes a HANDOFF.md baton brief so the next session continues where this one stopped.",
   "version": "0.1.0",
   "author": { "name": "Ashutosh Raj" }
 }
